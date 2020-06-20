@@ -14,6 +14,6 @@ function deleteFromObjectByKey(object, key) {
   
   delete newObj.key;
   
-  return 
+  return newObj;
 }
 
